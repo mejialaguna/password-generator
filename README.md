@@ -5,10 +5,9 @@ Hi, this week application generates a random password based on user-selected cri
 
 ## User Story
 
-```
+
 it was created to help any user build a  strong and secure password for all their needs. and it took me some time to finished, i hope everyone enjoy it using it, and help everyone with passwords ideas.
 
-```
 
 
 ## built with
