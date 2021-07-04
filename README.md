@@ -27,12 +27,11 @@ it was created to help any user build a  strong and secure password for all thei
 
 * [Full Demo Video](https://drive.google.com/file/d/1yz5Lxmq5bnkac0SuaiRSghDEm9VimDwu/view)
 
-
-![password generator demo](Assets/03-javascript-homework-demo.png)
-
-<iframe src="https://drive.google.com/file/d/1yz5Lxmq5bnkac0SuaiRSghDEm9VimDwu/preview" width="640" height="480"></iframe>
+![Demo](Assets/gif.gif)
 
 
 
 ## Review
+* This week application is a password generator to help any one to get reliable passwords.
 
+![](Assets/03-javascript-homework-demo.png)
