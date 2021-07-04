@@ -19,12 +19,18 @@ it was created to help any user build a  strong and secure password for all thei
 *JavaScript
 
 
-## Acceptance Criteria
+## Acceptance links
 
-`
-[password generator video](Assets/Password Generator.webm)
+ * [GitHub Repository](https://github.com/mejialaguna/password-generator.git)
+
+* [Deployed GitHub IO](https://mejialaguna.github.io/password-generator/)
+
+* [Full Demo Video](https://drive.google.com/file/d/1yz5Lxmq5bnkac0SuaiRSghDEm9VimDwu/view)
+
 
 ![password generator demo](Assets/03-javascript-homework-demo.png)
+
+<iframe src="https://drive.google.com/file/d/1yz5Lxmq5bnkac0SuaiRSghDEm9VimDwu/preview" width="640" height="480"></iframe>
 
 
 
